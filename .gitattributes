@@ -1,0 +1,3 @@
+# 这是一个检查混合换行的技能仓库 —— 仓库自身必须是纯 LF。
+* text=auto eol=lf
+*.md text eol=lf
